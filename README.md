@@ -9,6 +9,6 @@ I'm an OKC-based developer looking to build awesome things and work with awesome
 - 🌱 What I'm learning: Advanced React, API creation, UX/UI principles, MongoDB, etc. etc. etc.
 - 👯 Let's work on: Absolutely anything.
 - 💬 Let's talk about: Literature, movies, hummus.
-- 📫 Reach me at: saigecrossdev@gmail.com | GitHub messages
+- 📫 Reach me at: saigecrossdev@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a pug dad.
