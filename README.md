@@ -10,5 +10,5 @@ I'm an OKC-based developer looking to build awesome things and work with awesome
 - 👯 Let's work on: Absolutely anything.
 - 💬 Let's talk about: Literature, movies, music, hummus.
 - 📫 Reach me at: saigecrossdev@gmail.com
-- 😄 Pronouns: he/him
+- 🤔 When I'm not coding I'm: reading, doing something involving music, at the theater, wishing I was cool enough to be a rock climber.
 - ⚡ Fun fact: I'm a pug dad.
