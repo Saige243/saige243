@@ -10,4 +10,3 @@
 - 🌱 I love working with any tech stack, but have spent most of my time recently with MERN.
 - 💬 Let's talk about: literature, movies, music, hummus.
 - 🤔 When I'm not coding I'm: reading, writing, doing something involving music, at the movies, wishing I was cool enough to be a rock climber.
-- ⚡ Fun fact: I'm a pug dad.
